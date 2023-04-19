@@ -1,1 +1,2 @@
 "#ESP32withFaceRecongnitionLocker" 
+這個專題是將ESP32結合Huskylens等相關模組，組合成一個人臉辨識門禁系統
